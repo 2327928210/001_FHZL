@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\include_play_bar.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\include_play_bar.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\iov_main_alert_list.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\iov_main_alert_list.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\layout_calendar.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\layout_calendar.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_item_dialog.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_item_dialog.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_twocode_zxing.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_twocode_zxing.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_sendhistorys.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_sendhistorys.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\register_1.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\register_1.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\layout_titlebar2.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\layout_titlebar2.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\pop_head.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\pop_head.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_twocode.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_twocode.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_two_edit_layout.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_two_edit_layout.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trajectory_segmentation.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_trajectory_segmentation.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_item_camera.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_item_camera.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_photo.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_photo.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_main.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_photo_main.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_sendswitch.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_sendswitch.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ihere.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_ihere.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_showgroup.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_photo_showgroup.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_music.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_music.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\shijing.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\shijing.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music_main.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_music_main.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pickerhour.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_pickerhour.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_tra.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_tra.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\pop_menu.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\pop_menu.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_pw.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_edit_pw.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_2.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\forgot_2.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\item_ele.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\item_ele.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\register_3.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\register_3.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sharetype.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_sharetype.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_usericon.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_usericon.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_elelist.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_elelist.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pickerarray.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_pickerarray.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\iov_main_record_list.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\iov_main_record_list.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_alertoption.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_alertoption.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_share.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_main_share.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\infowindow_view.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\infowindow_view.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_main.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_main.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_mini.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_mini.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\speechlist_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\speechlist_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_flow.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_flow.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_device_mode.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_device_mode.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_photo_user.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_photo_user.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_shock.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_shock.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_send_main.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_send_main.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hui_chuan.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_hui_chuan.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fincar.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_fincar.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo_edit.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_photo_edit.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ip.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_ip.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pickerrecord.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_pickerrecord.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_main.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_main.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_sendparameter.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_sendparameter.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_forgot.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fm.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_fm.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speech.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_speech.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\photomycenter_head.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\photomycenter_head.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setmap.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_setmap.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\include_play_page_controller.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\include_play_page_controller.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\pop_device.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\pop_device.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_mycenter.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_photo_mycenter.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_alert.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_alert.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sos_num.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_sos_num.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_ele.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_ele.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gt122_hui_chuan.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_gt122_hui_chuan.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\traseg_item_layout.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\traseg_item_layout.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_select.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_select.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\item_delete.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\item_delete.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\iov_main_map.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\iov_main_map.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_car.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_car.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_popup_folder.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_popup_folder.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\music_main_fragment.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\music_main_fragment.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\poilist_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\poilist_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanbt.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_scanbt.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\iov_list_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\iov_list_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_select.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\poilist_title_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\poilist_title_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_mini_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_mini_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_item_folder.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_item_folder.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_photo_user_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_photo_user_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_location.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_location.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\wait_dialog.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\wait_dialog.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\item_sendhistory.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\item_sendhistory.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\music_notification.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\music_notification.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_main_map.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_photo_main_map.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\toast_view.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\toast_view.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\main_voice.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\main_voice.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\item_alertoption.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\item_alertoption.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\iov_alert_list_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\iov_alert_list_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo_poilist.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_photo_poilist.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_apn.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_apn.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\main_map_adapter.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\main_map_adapter.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\music_list_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\music_list_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\pop_device_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\pop_device_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_iov_deviceinfo.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_iov_deviceinfo.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\text_bubble.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\text_bubble.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\layout_titlebar.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\layout_titlebar.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\iov_main_list.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\iov_main_list.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_play.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_play.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\register_2.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\register_2.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\iov_record_list_item.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\iov_record_list_item.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gallerypick.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\dialog_gallerypick.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\login_xia_listview_layout.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\login_xia_listview_layout.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_detail__big_pic_.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\fragment_detail__big_pic_.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_title.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_title.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_userinfo.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_item_photo.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\gallery_item_photo.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\layout\\activity_binding.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\layout\\activity_binding.xml"
+    }
+]

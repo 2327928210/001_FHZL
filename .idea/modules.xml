@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001_FHZL.iml" filepath="$PROJECT_DIR$/001_FHZL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPhoenix/MyPhoenix.iml" filepath="$PROJECT_DIR$/MyPhoenix/MyPhoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+    </modules>
+  </component>
+</project>

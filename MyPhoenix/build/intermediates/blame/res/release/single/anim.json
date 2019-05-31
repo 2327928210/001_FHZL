@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\anim_round_rotate.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\anim_round_rotate.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\leftin.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\leftin.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\out_fade.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\out_fade.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\anim_update.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\anim_update.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\my_alpha_action3.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\my_alpha_action3.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\rightout.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\rightout.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\fragment_slide_down.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\fragment_slide_down.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\leftout.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\leftout.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\anim_pophidden.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\anim_pophidden.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\anim_below_hidden.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\anim_below_hidden.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\my_alpha_action2.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\my_alpha_action2.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\anim_popshow.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\anim_popshow.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\slide_from_bottom.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\slide_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\fragment_slide_up.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\fragment_slide_up.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\anim_below_show.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\anim_below_show.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\my_alpha_action.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\my_alpha_action.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\in_fade.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\in_fade.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\anim\\rightin.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\anim\\rightin.xml"
+    }
+]

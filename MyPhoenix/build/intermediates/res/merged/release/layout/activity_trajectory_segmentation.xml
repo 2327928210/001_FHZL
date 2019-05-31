@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_ef"
+    android:orientation="vertical"
+    tools:context="com.haoke.iov.activity.TrajectorySegmentationActivity" >
+    <include layout="@layout/layout_titlebar" />
+    <ListView 
+        android:id="@+id/tra_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#999999"
+        android:dividerHeight="@dimen/layout_y_2">
+    </ListView>
+
+</LinearLayout>

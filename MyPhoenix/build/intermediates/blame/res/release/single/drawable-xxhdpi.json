@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_dropdown_black.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_dropdown_black.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_select_unchecked.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_select_unchecked.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_photo.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_photo.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_selected.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_selected.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_dropdown_white.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_dropdown_white.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_back_black.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_back_black.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_back_white.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_back_white.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_camera.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_camera.png"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\gallery_pick_select_checked.png",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\drawable-xxhdpi\\gallery_pick_select_checked.png"
+    }
+]

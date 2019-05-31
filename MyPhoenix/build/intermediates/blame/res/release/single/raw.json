@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\sound_radar1.wav",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\raw\\sound_radar1.wav"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\bdspeech_recognition_cancel.mp3",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\raw\\bdspeech_recognition_cancel.mp3"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\bdspeech_recognition_start.mp3",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\raw\\bdspeech_recognition_start.mp3"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\bdspeech_recognition_success.mp3",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\raw\\bdspeech_recognition_success.mp3"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\speak_end.mp3",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\raw\\speak_end.mp3"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\bdspeech_recognition_error.mp3",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\raw\\bdspeech_recognition_error.mp3"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\bdspeech_speech_end.mp3",
+        "source": "D:\\001_FHZL\\library\\build\\intermediates\\bundles\\default\\res\\raw\\bdspeech_speech_end.mp3"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\release\\raw\\aa.amr",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\raw\\aa.amr"
+    }
+]

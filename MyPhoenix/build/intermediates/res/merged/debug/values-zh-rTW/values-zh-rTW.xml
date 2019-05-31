@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_dr30_mode">
+        <item>休眠状态</item>
+        <item>省电追踪</item>
+        <item>实时追踪</item>
+    </string-array>
+    <string-array name="device_mode">
+        <item>连续追踪定位模式</item>
+        <item>间隔时间上传模式</item>
+        <item>固定时间点上传模式</item>
+    </string-array>
+    <string-array name="gt55_commit_time">
+        <item>20秒</item>
+        <item>30秒</item>
+        <item>60秒</item>
+        <item>10分钟</item>
+        <item>15分钟</item>
+    </string-array>
+    <string-array name="location_time">
+        <item>1秒</item>
+        <item>20秒</item>
+        <item>60秒</item>
+        <item>10分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <string-array name="location_time2">
+        <item>20秒</item>
+        <item>60秒</item>
+        <item>10分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <string-array name="location_time_gt3a">
+        <item>1分钟</item>
+        <item>10分钟</item>
+        <item>60分钟</item>
+    </string-array>
+    <string-array name="location_time_gt52">
+        <item>20秒</item>
+        <item>30秒</item>
+        <item>60秒</item>
+        <item>10分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="smssdk_country_group_a">
+		<item>阿尔巴尼亚,355,110,27601|27602|27603|27604</item>
+		<item>阿尔及利亚,213,52,60303|60302|60301</item>
+		<item>阿富汗,93,46,41220|41230|41240|41250|41201</item>
+		<item>阿根廷,54,27,722070|72207|72236|722020|72201|72234|72202|722320|722310|722010|722340|722330|722341</item>
+		<item>阿拉伯联合酋长国,971,184,42402|42403</item>
+		<item>阿鲁巴岛,297,102,36301|36302</item>
+		<item>阿曼,968,182,42202|42203</item>
+		<item>阿塞拜疆,994,193,40002|40001|40004</item>
+		<item>埃及,20,5,60203|60202|60201</item>
+		<item>埃塞俄比亚,251,84,63601</item>
+		<item>爱尔兰,353,108,27201|27213|27202|27211|27205|27203|27209</item>
+		<item>爱沙尼亚,372,117,24803|24802|24801</item>
+		<item>安道尔,376,121,21303</item>
+		<item>安哥拉,244,79,63102|63104</item>
+		<item>安圭拉岛,1264,199,365840</item>
+		<item>安提瓜和巴布达,1268,200,338050|344030|344920</item>
+		<item>奥地利,43,16,23207|23209|23210|23211|23201|23212|23202|23214|23203|23204|23215|23205|23206</item>
+		<item>澳大利亚,61,33,50507|50506|50519|50590|50572|50571|50530|50501|50512|50511|50503|50502|505060|50538|50516|505061|50526</item>
+		<item>澳门,853,169,45501|45500|45503|45502|45505|45504</item>
+    </string-array>
+    <string-array name="smssdk_country_group_b">
+		<item>巴巴多斯,1246,198,342600</item>
+		<item>巴布亚新几内亚,675,155,53701|53702|53703</item>
+		<item>巴哈马群岛,1242,197,364390|36439</item>
+		<item>巴基斯坦,92,45,</item>
+		<item>巴拉圭,595,148,74404|74403|74402|74401</item>
+		<item>巴勒斯坦领土,970,183,42506-PS|42505-PS</item>
+		<item>巴林,973,186,42604|42605|42601|42602</item>
+		<item>巴拿马,507,140,71404|71402|71403|71401</item>
+		<item>巴西,55,28,72416|72405|72439|72406|72403|72415|72437|72404|72434|72423|72402|72432|72410|72433|72400|72411|72430|72431|72407</item>
+		<item>白俄罗斯,375,120,25704|25701|25702</item>
+		<item>百慕大群岛,1441,204,350000</item>
+		<item>保加利亚,359,114,28401|28405|28403</item>
+		<item>贝宁,229,64,61605|61601|61602|61603|61604</item>
+		<item>比利时,32,9,20610|20620|20640|20606|20605|20601</item>
+		<item>冰岛,354,109,27409|27411|27404|27401|27402|27407</item>
+		<item>波多黎各,1787,212,310970</item>
+		<item>波兰,48,22,26016|26038|26004|26018|26017|26006|26009|26019|26008|26010|26032|26001|26034|26012|26011|26003|26036|26014|26002|26013|26035</item>
+		<item>波利尼西亚（法属）,689,165,54720</item>
+		<item>波斯尼亚和黑塞哥维那,387,129,21890|21805|21803</item>
+		<item>玻利维亚,591,144,73603|73602|73601</item>
+		<item>伯利兹,501,134,70267</item>
+		<item>博茨瓦纳,267,99,65202|65201|65204</item>
+		<item>不丹,975,188,40211|40277</item>
+		<item>布基纳法索,226,61,61301|61302|61303</item>
+		<item>布隆迪,257,90,64201|64203|64202|64207|64282</item>
+    </string-array>
+    <string-array name="smssdk_country_group_c">
+		<item>朝鲜,850,167,46703</item>
+		<item>赤道几内亚,240,75,62701|62703</item>
+    </string-array>
+    <string-array name="smssdk_country_group_d">
+		<item>丹麦,45,19,23801|23812|23802|23813|23803|23806|23828|23807|23808|23830|23820|23810|23866|23877</item>
+		<item>德国,49,23,26203|26202|26205|26216|26204|26207|26217|26206|26209|26208|26243|26276|26220|26242|26212|26201|26211|26277</item>
+		<item>东帝汶,670,153,51401|51402</item>
+		<item>多哥,228,63,61501|61503</item>
+		<item>多米尼加共和国,1809,213,37001|37002|37003|37004</item>
+		<item>多米尼克,1767,210,366110</item>
+    </string-array>
+    <string-array name="smssdk_country_group_e">
+		<item>俄罗斯,7,3,25020|25099|25035|25002|25012|25001|25003|25039|25005|25007</item>
+		<item>厄瓜多尔,593,146,74002|74001|74000</item>
+    </string-array>
+    <string-array name="smssdk_country_group_f">
+		<item>法国,33,10,20816|20804|20826|20815|20825|20813|20802|20823|20801|20811|20822|20888|20810|20821|20831|20820|20809|20808|20817</item>
+		<item>法罗群岛,298,103,28801|28802|28803</item>
+		<item>菲律宾,63,35,51518|51502|51501|51503|51505</item>
+		<item>斐济,679,159,54202|54201</item>
+		<item>芬兰,358,113,24409|24432|24410|24421|24412|24411|24414|24403|24413|24405|24426|24404|24491</item>
+		<item>佛得角,238,73,62501|62502</item>
+    </string-array>
+    <string-array name="smssdk_country_group_g">
+		<item>冈比亚,220,55,60702|60701|60704|60703</item>
+		<item>刚果共和国,242,77,62907|62910|62901</item>
+		<item>刚果民主共和国,243,78,63086|63001|63089|63002|63005</item>
+		<item>哥伦比亚,57,30,732130|732020|732154|732111|732123|732101</item>
+		<item>哥斯达黎加,506,139,71204|71203|71201</item>
+		<item>格林纳达,1473,205,352110</item>
+		<item>格陵兰岛,299,104,29001</item>
+		<item>格鲁吉亚,995,194,28202|28201|28204|28205</item>
+		<item>古巴,53,26,36801</item>
+		<item>瓜德罗普岛,590,143,34008|34003|34002|34001|34020</item>
+		<item>关岛,1671,208,310400|310140|310470|310110</item>
+		<item>圭亚那,592,145,73802|73801</item>
+		<item>圭亚那（法属）,594,147,74201|74220</item>
+    </string-array>
+    <string-array name="smssdk_country_group_h">
+		<item>哈萨克斯坦,7,4,40102|40101|40177|40108|40107</item>
+		<item>海地,509,142,37201|37202</item>
+		<item>韩国,82,40,45006|45005|45008|45002|45004</item>
+		<item>荷兰,31,8,20423|20412|20410|20465|20420|20462|20409|20408|20407|20418|20406|20417|20428|20416|20405|20415|20404|20414|20469|20403|20468|20424|20402</item>
+		<item>荷属安的列斯群岛,599,152,36269|36202|36201|36251|36294|36282|36281</item>
+		<item>黑山共和国,382,126,29703|29702|29701</item>
+		<item>洪都拉斯,504,137,70830|70840|70802|70801</item>
+    </string-array>
+    <string-array name="smssdk_country_group_i">
+	    
+	</string-array>
+    <string-array name="smssdk_country_group_j">
+		<item>基里巴斯,686,163,54509</item>
+		<item>吉布提,253,86,63801</item>
+		<item>吉尔吉斯斯坦,996,195,43705|43701</item>
+		<item>几内亚,224,59,61105|61104|61103|61102|61101</item>
+		<item>几内亚比绍,245,80,63202|63203</item>
+		<item>加拿大,1,1,302657|302656|302710|302655|302500|302610|302720|302702|302270|302490|302880|302220|302680|302360|302690|302510|302653|302861|302222|302640|302651|302530|302221|302320</item>
+		<item>加纳,233,68,62001|62002|62003|62004|62006|62007</item>
+		<item>加蓬,241,76,62804|62801|62802|62803</item>
+		<item>柬埔寨,855,170,45602|45601|45608|45618|45609|45604|45603|45606|45605|23455-KH</item>
+		<item>捷克共和国,420,131,23001|23002|23003|23004|23005|23008</item>
+		<item>津巴布韦,263,95,64801|64803|64804</item>
+    </string-array>
+    <string-array name="smssdk_country_group_k">
+		<item>喀麦隆,237,72,62401|62402|62404</item>
+		<item>卡塔尔,974,187,42701|42702</item>
+		<item>开曼群岛,1345,203,346140</item>
+		<item>科摩罗,269,101,65401</item>
+		<item>科特迪瓦,225,60,61205|61204|61203|61202</item>
+		<item>科威特,965,179,41904|41903|41902</item>
+		<item>克罗地亚,385,127,21902|21901|21912|21910</item>
+		<item>肯尼亚,254,87,63905|63907|63903|63902</item>
+		<item>库克群岛,682,161,54801</item>
+    </string-array>
+    <string-array name="smssdk_country_group_l">
+		<item>拉脱维亚,371,116,24703|24706|24705|24708|24707|24709|24702|24701</item>
+		<item>莱索托,266,98,65101|65102</item>
+		<item>老挝,856,171,45701|45708|45703|45702</item>
+		<item>黎巴嫩,961,175,41503|41501</item>
+		<item>立陶宛,370,115,24601|24603|24602</item>
+		<item>利比里亚,231,66,61804|61807|61801|61802</item>
+		<item>利比亚,218,54,60603|60601|60600</item>
+		<item>列支敦士登,423,133,29501|29577|29505|29502</item>
+		<item>法属留尼汪岛,262,94,64710|64702</item>
+		<item>卢森堡,352,107,27099|27077|27001</item>
+		<item>卢旺达,250,83,63510|63512|63513|63514</item>
+		<item>罗马尼亚,40,14,22603|22604|22605|22610|22601</item>
+    </string-array>
+    <string-array name="smssdk_country_group_m">
+		<item>马达加斯加,261,93,64601|64602|64604</item>
+		<item>马尔代夫,960,174,47201|47202</item>
+		<item>马耳他,356,111,27821|27877|27801</item>
+		<item>马拉维,265,97,65010|65001</item>
+		<item>马来西亚,60,32,50220|50211|50213|502150|50212|502151|502152|50217|50216|50219|50218</item>
+		<item>马里,223,58,61002|61001</item>
+		<item>马其顿,389,130,29402|29401|29403</item>
+		<item>马提尼克,596,149,34003|34002|34001|34020</item>
+		<item>毛里求斯,230,65,61710|61701|61702</item>
+		<item>毛里塔尼亚,222,57,60910|60902</item>
+		<item>美国,1,2,311090|310080|311050|311370|310160|31150|311010|310680|310120|310560|311650|310880|310760|31190|310320|310630|310710|310090|310290|316993|310170|310050|31060|311580|310690|311020|311340|310570|311660|310450|310011|310770|316995|310012|316994|311730|310004|311610|310840|310005|310600|31100|311190|310180|31050|310060|316883|311150|310380|311030|310260|311230|310020|310340|311991|311430|316885|310660|310100|316884|310540|310023|310980|311740|310410|31016|310610|310016|31130|31011|31611|310190|311040|316011|310150|310790|310990|310870|310420|310300|310740|311710</item>
+		<item>蒙古,976,189,42898|42888|42899|42801</item>
+		<item>蒙特塞拉特岛,1664,207,354860</item>
+		<item>孟加拉国,880,172,47007|47005|47006|47003|47004|47001|47002</item>
+		<item>秘鲁,51,24,71610|71606|71617|71607|71615</item>
+		<item>密克罗尼西亚,691,166,55001</item>
+		<item>缅甸,95,48,41401|41406|41405</item>
+		<item>摩尔多瓦,373,118,25903|25902|25904|25901</item>
+		<item>摩洛哥,212,51,60405|60402|60401|60400</item>
+		<item>摩纳哥,377,122,21201</item>
+		<item>莫桑比克,258,91,64301|64304|64303</item>
+		<item>墨西哥,52,25,33402|33403|33401|33450|33406|334090|33404|33405</item>
+    </string-array>
+    <string-array name="smssdk_country_group_n">
+		<item>纳米比亚,264,96,64902|64901|64903</item>
+		<item>南非,27,6,65510|65512|65501|65502|65507|65519</item>
+		<item>南苏丹,211,50,65995</item>
+		<item>尼泊尔,977,190,42901|42902</item>
+		<item>尼加拉瓜,505,138,71021|71030</item>
+		<item>尼日尔,227,62,61401|61402|61403|61404</item>
+		<item>尼日利亚,234,69,62150|62140|62130|62120|62125|23455-NG|62160</item>
+		<item>挪威,47,21,24208|24209|24220|24221|24222|24201|24223|24202|24224|24204|24205|24206</item>
+    </string-array>
+    <string-array name="smssdk_country_group_o">
+	    
+	</string-array>
+    <string-array name="smssdk_country_group_p">
+		<item>帕劳,680,160,55201|55280</item>
+		<item>葡萄牙,351,106,26804|26806|26801|26803</item>
+    </string-array>
+    <string-array name="smssdk_country_group_q">
+	</string-array>
+    <string-array name="smssdk_country_group_r">
+		<item>日本,81,39,44027|44026|44029|44028|44023|44144|44022|44143|44025|44024|44145|44140|44021|44142|44141|44020|44016|44015|44018|44017|44012|44011|44099|44014|44013|44019|44090|44096|44095|44010|44098|44097|44092|44091|44094|44093|44004|44007|44006|44001|44089|44000|44088|44003|44002|44009|44008|44087|44199|44078|44198|44077|44079|44074|44194|44073|44076|44075|44191|44070|44190|44193|44072|44192|44071|44067|44066|44069|44068|44063|44062|44065|44064|44061|44060|44056|44055|44058|44052|44051|44054|44053|44050|44170|44049|44048|44045|44044|44165|44047|44046|44041|44162|44040|44161|44043|44164|44042|44163|44038|44037|44039|44034|44033|44036|44035|44030|44032|44031</item>
+		<item>瑞典,46,20,24035|24013|24036|24014|24037|24015|24038|24016|24039|24017|24018|24019|24030|24031|24010|24032|24033|24012|24034|24002|24003|24026|24027|24028|24006|24029|24007|24008|24040|24020|24043|24022|24000|24044|24023|24001|24045</item>
+		<item>瑞士,41,15,22812|22801|22802|22803|22805|22809|22851|22853|22854</item>
+    </string-array>
+    <string-array name="smssdk_country_group_s">
+		<item>萨尔瓦多,503,136,70602|70601|70604|70603|70605</item>
+		<item>萨摩亚,685,162,54900</item>
+		<item>塞尔维亚,381,125,29341|22001|22003|22005</item>
+		<item>塞拉利昂,232,67,61902|61903|61904|61905|61906|61909|61901</item>
+		<item>塞内加尔,221,56,60801|60803|60802</item>
+		<item>塞浦路斯,357,112,28022|28001|28020|28010</item>
+		<item>塞舌尔,248,81,63310|63301|63302</item>
+		<item>沙特阿拉伯,966,180,42003|42004|42001|42006</item>
+		<item>圣多美和普林西比,239,74,62601</item>
+		<item>圣基茨和尼维斯,1869,215,356110|356070</item>
+		<item>圣卢西亚,1758,209,358110</item>
+		<item>圣马力诺,378,123,29201</item>
+		<item>圣皮埃尔和密克隆岛,508,141,30801</item>
+		<item>圣文森特和格林纳丁斯,1784,211,360110</item>
+		<item>斯里兰卡,94,47,41301|41305|41302|41308</item>
+		<item>斯洛伐克,421,132,23199|23101|23102|23106</item>
+		<item>斯洛文尼亚,386,128,29364|29341|29340|29370</item>
+		<item>斯威士兰,268,100,65310|65301</item>
+		<item>苏丹,249,82,63401|63402|63407</item>
+		<item>苏里南,597,150,74604|74603|74602</item>
+		<item>所罗门群岛,677,157,54010</item>
+		<item>索马里,252,85,63782|63760|63730|63701|63725|63704</item>
+    </string-array>
+    <string-array name="smssdk_country_group_t">
+		<item>塔吉克斯坦,992,191,43605|43601|43602|43603|43604</item>
+		<item>台湾,886,173,46602|46668|46603|46688|46699|46601|46689|46656|46697|46610|46609|46606|46607|46605|46693|46692</item>
+		<item>泰国,66,38,52000|52099|52020|52003|52004|52015|52001|52023|52002|52018|52005</item>
+		<item>坦桑尼亚,255,88,64011|64003|64002|64005|64004|64007|64006|64009|64008</item>
+		<item>汤加,676,156,53901</item>
+		<item>特克斯和凯科斯群岛,1649,206,376352|376350</item>
+		<item>特立尼达，多巴哥,1868,214,374130|37412</item>
+		<item>突尼斯,216,53,60503|60502|60501</item>
+		<item>土耳其,90,43,28602|28603|28601|28604</item>
+		<item>土库曼斯坦,993,192,43801|43802</item>
+    </string-array>
+    <string-array name="smssdk_country_group_u">
+	    
+	</string-array>
+    <string-array name="smssdk_country_group_v">
+	    
+	</string-array>
+    <string-array name="smssdk_country_group_w">
+		<item>瓦努阿图,678,158,54101|54105</item>
+		<item>危地马拉,502,135,70402|70401|70403</item>
+		<item>维尔京群岛（美属）,1284,201,311470</item>
+		<item>维尔京群岛（英属）,1340,202,348570|348170</item>
+		<item>委内瑞拉,58,31,73406|73404|73401</item>
+		<item>文莱,673,154,52811|52802</item>
+		<item>乌干达,256,89,64111|64133|64166|64122|64110|64101|64114</item>
+		<item>乌克兰,380,124,25507|25506|25521|25501|25503|25502|25505|25504</item>
+		<item>乌拉圭,598,151,74803|74802|74801|74800|74810|74807</item>
+		<item>乌兹别克斯坦,998,196,43401|43402|43407|43403|43404|43405|43406</item>
+    </string-array>
+    <string-array name="smssdk_country_group_x">
+		<item>西班牙,34,11,21402|21401|21423|21411|21422|21410|21421|21432|21420|21409|21408|21419|21407|21418|21417|21406|21405|21427|21416|21404|21415|21425|21403</item>
+		<item>希腊,30,7,20203|20202|20201|20210|20209|20207|20205</item>
+		<item>香港,852,168,45413|45412|45401|45404|45403|45414|45400|45411|45409|45406|45405|45416|45408|45419|45429|45407</item>
+		<item>新加坡,65,37,52502|52503|52512|52501|52505</item>
+		<item>新喀里多尼亚,687,164,54601</item>
+		<item>新西兰,64,36,53001|53004|53005|53024|53002|53006</item>
+		<item>匈牙利,36,12,21630|21670|21601</item>
+		<item>叙利亚,963,177,41701|41702</item>
+    </string-array>
+    <string-array name="smssdk_country_group_y">
+		<item>牙买加,1876,216,338180|338020|338110</item>
+		<item>亚美尼亚,374,119,28301|28310|28305|28304</item>
+		<item>也门,967,181,42101|42102|42103</item>
+		<item>伊拉克,964,178,41805|41840|41820|41830|41845</item>
+		<item>伊朗,98,49,43235|43214|43220|43200|43211|43219</item>
+		<item>以色列,972,185,42577|42516|42505|42506|42507|RESTRICTED-IL|42519|42508|42501|42512|42523|42502|42503|42514|42515</item>
+		<item>意大利,39,13,22206|22207|22208|22210|22243|22288|22244|22299|22233|22201|22235|22204|22248|22205|22230</item>
+		<item>印度,91,44,405893|405892|405895|405894|405897|405896|405899|405898|40501|40506|40505|405891|405890|40503|405889|405882|405881|405883|405886|405885|405888|405887|405880|405879|405878|405871|405750|405870|405873|405752|405872|405751|405875|405754|405874|405753|405877|405756|405876|405755|405868|405867|405869|405860|405862|405861|405864|405863|405866|405865|405856|405859|405858|40494|40493|40492|40491|40498|40497|40496|40495|40490|40483|40482|40481|40480|40487|40486|40485|405799|40484|40489|40488|40472|40471|40470|40476|40475|40474|40473|40479|40478|40477|40460|405930|405811|40462|405810|405931|40469|40468|40467|40466|405809|405802|405923|405801|405922|405804|405925|405803|405924|405806|405927|405805|405926|405808|405929|405807|405928|40450|40570|40454|40453|40452|405800|405921|40451|405920|40458|40457|40456|40455|40459|405919|405912|405914|405913|405916|405915|405918|405917|40443|40442|40441|40567|40446|40566|40449|405901|405900|405903|405902|405905|405904|405907|405906|40553|40552|40431|40551|40430|40436|40556|40435|40555|40434|40554|40433|40438|40437|405851|405850|40421|405853|40420|405852|405855|405854|40425|40424|40422|40429|40428|40427|40419|405846|405845|405848|405847|405849|405046|405045|405840|405047|40410|405842|405841|405843|40413|40412|405040|40411|40418|405042|40417|405041|40416|405044|40415|405043|40409|405835|405834|405837|405836|405839|405838|405035|405034|405037|405036|40520|405039|405831|405038|405830|405833|405832|40524|40403|40402|40523|40522|40401|40521|40400|40407|405031|40406|405030|40405|405033|40404|405032|40519|40518|405824|405823|405825|405828|405827|405829|405026|405025|405820|405027|405822|405029|405821|40513|40512|40511|40510|40517|40515|40514|40509|40508|40507|405813|405812|405815|405814|405817|405816|405819|405818</item>
+		<item>印度尼西亚,62,34,51010|51021|51089|51001|51011|51027|51007|51028|51009|51008</item>
+		<item>英国,44,17,23427|23428|23407|23409|23420|23400|23401|23423|23500|23424|23402|23403|23425|23426|23416|23417|23418|23419|23430|23431|23476|23410|23433|23455|23411|23478|23434|23458|23414|23415|23450|23451</item>
+		<item>约旦,962,176,41601|41677|41603</item>
+		<item>越南,84,41,45204|45205|45202|45201|45207</item>
+    </string-array>
+    <string-array name="smssdk_country_group_z">
+		<item>赞比亚,260,92,64502|64501|64503</item>
+		<item>泽西,44,18,</item>
+		<item>乍得,235,70,62201|62203</item>
+		<item>直布罗陀,350,105,26606|26609|26601</item>
+		<item>智利,56,29,73008|73006|73004|73002|73013|73003|73014|73011|73012|73001</item>
+		<item>中非共和国,236,71,62301|62302|62303|62304</item>
+		<item>中国,86,42,46006|46007|46005|46002|46003|46000|46001</item>
+    </string-array>
+    <string-array name="tra_time">
+        <item>3分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>15分钟</item>
+        <item>20分钟</item>
+        <item>30分钟</item>
+        <item>45分钟</item>
+        <item>1小时</item>
+        <item>6小时</item>
+        <item>12小时</item>
+        <item>24小时</item>
+    </string-array>
+    <string-array name="wheel_hours">
+        <item>0小时</item>
+        <item>1小时</item>
+        <item>2小时</item>
+        <item>3小时</item>
+        <item>4小时</item>
+        <item>5小时</item>
+        <item>6小时</item>
+        <item>7小时</item>
+        <item>8小时</item>
+        <item>9小时</item>
+        <item>10小时</item>
+        <item>11小时</item>
+        <item>12小时</item>
+    </string-array>
+    <string-array name="wheel_minutes">
+        <item>0分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>15分钟</item>
+        <item>20分钟</item>
+        <item>25分钟</item>
+        <item>30分钟</item>
+        <item>35分钟</item>
+        <item>40分钟</item>
+        <item>45分钟</item>
+        <item>50分钟</item>
+        <item>55分钟</item>
+    </string-array>
+    <item name="ssdk_sina_web_title_id" type="id"/>
+    <item name="ssdk_sms_id_clCountry" type="id"/>
+    <item name="ssdk_sms_id_et_put_identify" type="id"/>
+    <item name="ssdk_sms_id_ivSearch" type="id"/>
+    <item name="ssdk_sms_id_iv_clear" type="id"/>
+    <item name="ssdk_sms_id_llSearch" type="id"/>
+    <item name="ssdk_sms_id_llTitle" type="id"/>
+    <item name="ssdk_sms_id_ll_back" type="id"/>
+    <item name="ssdk_sms_id_tv_title" type="id"/>
+    <string name="FM">FM发射</string>
+    <string name="about_activity_position_clickdownload_app">点击下载凤凰智联App</string>
+    <string name="ac_huichuan">GT121回传设置</string>
+    <string name="ac_huichuan_gt122">GT122回传设置</string>
+    <string name="action_settings">Settings</string>
+    <string name="alarm_weilan_1">围栏1:</string>
+    <string name="alarm_weilan_2">围栏2:</string>
+    <string name="alarm_weilan_3">围栏3:</string>
+    <string name="alarm_weilan_4">围栏4:</string>
+    <string name="alarm_weilan_5">围栏5:</string>
+    <string name="apn">APN设置</string>
+    <string name="apn_apn">APN：</string>
+    <string name="apn_name">用户名：</string>
+    <string name="apn_password">密码：</string>
+    <string name="apn_sim">SIM卡号：</string>
+    <string name="app_check_update">检查更新</string>
+    <string name="app_down">下载</string>
+    <string name="app_name">凤凰智联</string>
+    <string name="app_notify">确定打开通知功能</string>
+    <string name="april">四月</string>
+    <string name="august">八月</string>
+    <string name="binding">设备绑定</string>
+    <string name="binding_ensure">确定绑定</string>
+    <string name="binding_text">请输入设备IMEI号进行绑定</string>
+    <string name="ble_connect">蓝牙连接</string>
+    <string name="ble_connect_end">设备已连接成功</string>
+    <string name="ble_connect_ing">开始连接设备</string>
+    <string name="ble_device">设备</string>
+    <string name="ble_scan">搜索</string>
+    <string name="car_dianhuo">点火</string>
+    <string name="car_door_close">车门关闭</string>
+    <string name="car_door_open">车门打开</string>
+    <string name="car_door_yi_close">车门已关闭</string>
+    <string name="car_door_yi_open">车门已打开</string>
+    <string name="car_kongtiao_close">空调关闭</string>
+    <string name="car_kongtiao_open">空调打开</string>
+    <string name="car_kongtiao_yi_close">空调已关闭</string>
+    <string name="car_kongtiao_yi_open">空调已打开</string>
+    <string name="car_xihuo">熄火</string>
+    <string name="car_yiqing_yi_dianhuo">引擎已点火</string>
+    <string name="car_yiqing_yi_xihuo">引擎已熄火</string>
+    <string name="cue_BluetoothConnect_wait">请连接设备</string>
+    <string name="cue_BluetoothEnable_wait">请打开蓝牙</string>
+    <string name="cue_Location_wait">请先打开位置权限</string>
+    <string name="cue_Online_send">在线发送</string>
+    <string name="cue_apn_is_no_empty">APN不能为空</string>
+    <string name="cue_ble_break">是否断开蓝牙？</string>
+    <string name="cue_ble_error_1">查询产品序列号未有结果，已自动断开连接，请购买正品设备</string>
+    <string name="cue_ble_error_2">您连接的设备不是正规厂家生产，已自动断开连接，请购买正品设备</string>
+    <string name="cue_bonded_successful">绑定成功</string>
+    <string name="cue_carname_is_no_Emoji">车牌不支持表情</string>
+    <string name="cue_carname_is_no_empty">车牌不能为空</string>
+    <string name="cue_click_again_to_exit">再按一次退出程序</string>
+    <string name="cue_code_is_no_6_bits">验证码不能超过6位</string>
+    <string name="cue_code_is_no_agreement">请阅读并确定接受服务条款，否则不能完成注册</string>
+    <string name="cue_code_is_no_empty">验证码不能为空</string>
+    <string name="cue_edit_successful">修改成功</string>
+    <string name="cue_fail">失败</string>
+    <string name="cue_is_no_bits">不能超过%d位</string>
+    <string name="cue_is_no_correct">格式不正确</string>
+    <string name="cue_is_no_max">长度不得大于16</string>
+    <string name="cue_login_successful">登录成功</string>
+    <string name="cue_login_wait">请先登录帐号</string>
+    <string name="cue_logoutwx_wait">是否解除微信绑定?</string>
+    <string name="cue_macid_is_error">设备号格式不正确</string>
+    <string name="cue_macid_is_no_correct">设备号长度不正确</string>
+    <string name="cue_macid_is_no_empty">设备号不能为空</string>
+    <string name="cue_name_is_no_16_bits">姓名不能超过16位</string>
+    <string name="cue_network_anomaly">网络异常</string>
+    <string name="cue_nickname_is_no_Emoji">名称不支持表情</string>
+    <string name="cue_nickname_is_no_empty">名称不能为空</string>
+    <string name="cue_no_Invalid">帐号已被登录,请重新登录</string>
+    <string name="cue_no_device_info">未获取到设备信息</string>
+    <string name="cue_no_empty">不能为空</string>
+    <string name="cue_no_network">网络无法连接</string>
+    <string name="cue_no_up_apk">已是最新版本！</string>
+    <string name="cue_no_zero">输入值不能为0</string>
+    <string name="cue_not_date">暂无数据</string>
+    <string name="cue_password_is_no_16_bits">密码不能超过16位</string>
+    <string name="cue_password_is_no_confirm">两次密碼不一致</string>
+    <string name="cue_password_is_no_correct">密碼长度不正确</string>
+    <string name="cue_password_is_no_empty">密碼不能为空</string>
+    <string name="cue_password_is_no_error">旧密碼错误</string>
+    <string name="cue_phone_is_no_Binding">请先绑定设备！</string>
+    <string name="cue_phone_is_no_correct">手机号码格式不正确</string>
+    <string name="cue_phone_is_no_empty">手机号码不能为空</string>
+    <string name="cue_please_wait">请稍候</string>
+    <string name="cue_please_wait_angle">正在调整图片请稍候</string>
+    <string name="cue_send_error">发送失败</string>
+    <string name="cue_send_error_1">车速过快，待车速减慢后自动执行断油电</string>
+    <string name="cue_send_error_2">GPS未定位，待GPS恢复后自动执行断油电</string>
+    <string name="cue_send_error_Off_line">已发送离线指令</string>
+    <string name="cue_send_successful">发送成功</string>
+    <string name="cue_set_name">输入你想要的名称</string>
+    <string name="cue_sim_is_no_empty">SIM不能为空</string>
+    <string name="cue_successful">成功</string>
+    <string name="cue_unbonded_successful">解绑成功</string>
+    <string name="cue_up_apk">发现新版本是否立即更新</string>
+    <string name="cue_up_error">更新失败</string>
+    <string name="cue_up_nodata_ele">暂无围栏</string>
+    <string name="cue_up_shijing_qihuan">该手机暂不支持频繁切换此功能</string>
+    <string name="cue_up_successful">更新成功</string>
+    <string name="dakaiquanxxian">请先打开相机权限</string>
+    <string name="december">十二月</string>
+    <string name="device_alram_acc">ACC报警</string>
+    <string name="device_alram_blind">盲区报警</string>
+    <string name="device_alram_chaosu">超速报警</string>
+    <string name="device_alram_displacement">位移报警</string>
+    <string name="device_alram_door">门报警</string>
+    <string name="device_alram_electricity">低电量报警</string>
+    <string name="device_alram_jones">外电断电报警</string>
+    <string name="device_alram_shock">震动报警</string>
+    <string name="device_alram_shock_1">一级</string>
+    <string name="device_alram_shock_2">二级</string>
+    <string name="device_alram_shock_3">三级</string>
+    <string name="device_config_1inqing">亲情号码设置</string>
+    <string name="device_config_mode">设备工作模式</string>
+    <string name="device_config_num1">号码1</string>
+    <string name="device_config_num2">号码2</string>
+    <string name="device_config_num3">号码3</string>
+    <string name="device_config_phonenum">设备电话号码设置</string>
+    <string name="device_config_sosnum">SOS电话号码设置</string>
+    <string name="device_config_spacing">上传间隔</string>
+    <string name="device_config_tonghua">回拨号码设置</string>
+    <string name="device_huichuan">回传设置</string>
+    <string name="device_info_Oil_break_power_off">断油断电</string>
+    <string name="device_info__confirm">是否远程关机？</string>
+    <string name="device_info__is_chongqi">是否重启？</string>
+    <string name="device_info_break_power_confirm">是否执行断油断电？</string>
+    <string name="device_info_chaosu">超速报警设置</string>
+    <string name="device_info_chaosu_title">请输入速度（单位:km/h）</string>
+    <string name="device_info_chaosu_title2">请输入超速持续时间（单位:秒）</string>
+    <string name="device_info_chongqi">重启</string>
+    <string name="device_info_custom">自定义指令</string>
+    <string name="device_info_custom_title">请输入自定义指令</string>
+    <string name="device_info_defense">布防</string>
+    <string name="device_info_factory">恢复出厂设置</string>
+    <string name="device_info_factory_confirm">1.所有参数将被重置\n2.油电状态恢复默认</string>
+    <string name="device_info_gps_confirm">是否执行导航？</string>
+    <string name="device_info_guanji">远程关机</string>
+    <string name="device_info_mode">请选择工作模式：</string>
+    <string name="device_info_mode_date">时间点：</string>
+    <string name="device_info_mode_date_tag">(设置之后设备每天按照设置的时间点上传一个位置。)</string>
+    <string name="device_info_mode_second">时间间隔：</string>
+    <string name="device_info_mode_second_tag">(默认时间间隔60秒，范围:10-1800。)</string>
+    <string name="device_info_mode_time">时间间隔：</string>
+    <string name="device_info_mode_time_tag">(默认时间间隔1440分钟，范围:5-7200。)</string>
+    <string name="device_info_nav_confirm">是否执行导航？</string>
+    <string name="device_info_remove_time">工作时间：</string>
+    <string name="device_info_remove_time_tag">(默认时间间隔20分钟，范围:3-120。)</string>
+    <string name="device_info_unbound_confirm">是否解除绑定当前设备？</string>
+    <string name="device_info_unbound_version_new">设备已是最新版本！</string>
+    <string name="device_info_version">版本号</string>
+    <string name="device_info_version_mcu">MCU</string>
+    <string name="device_install_goolemap">您尚未安装谷歌地图或地图版本过低</string>
+    <string name="edit_apn">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890.</string>
+    <string name="edit_rule">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890&amp;!!@@##$$%%^^**</string>
+    <string name="editpassword">修改密码</string>
+    <string name="elelist_count_max">电子围栏数量已达上限</string>
+    <string name="february">二月</string>
+    <string name="findcar">智能找车</string>
+    <string name="findcar2_sysset_sound">声音设置</string>
+    <string name="findcar_clock_immediately">时间到了</string>
+    <string name="findcar_clock_tenleft">剩下10分钟了</string>
+    <string name="flow_activity_wnhq">未获取到ICCID，请手动输入</string>
+    <string name="forgot">忘记密码</string>
+    <string name="forgot_edit">修改</string>
+    <string name="forgot_forgot">重置新密码</string>
+    <string name="fr">五</string>
+    <string name="friends">朋友圈</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_get_phone_code">获取验证码</string>
+    <string name="hint_image_code">请输入图形验证码</string>
+    <string name="hint_imei">请输入设备编号IMEI</string>
+    <string name="hint_name">请输入昵称</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_password_confirm">请确认密码</string>
+    <string name="hint_password_new">请输入新密码</string>
+    <string name="hint_password_old">请输入旧密码</string>
+    <string name="hint_phone">请输入手机号</string>
+    <string name="hint_phone_code">请输入短信验证码</string>
+    <string name="huichuan_1_1">2年模式 ( Wifi + GPS + LBS)</string>
+    <string name="huichuan_1_2">3年模式 ( Wifi + LBS )</string>
+    <string name="huichuan_2_1">闹钟模式</string>
+    <string name="huichuan_2_2">打开</string>
+    <string name="huichuan_2_3">关闭</string>
+    <string name="huichuan_2_4">第一组</string>
+    <string name="huichuan_2_5">第二组</string>
+    <string name="huichuan_2_6">第三组</string>
+    <string name="huichuan_2_7">第四组</string>
+    <string name="huichuan_3_1">定时模式</string>
+    <string name="huichuan_3_2">范围0-999分钟</string>
+    <string name="huichuan_4_1">星期模式</string>
+    <string name="huichuan_4_2">星期一</string>
+    <string name="huichuan_4_3">星期二</string>
+    <string name="huichuan_4_4">星期三</string>
+    <string name="huichuan_4_5">星期四</string>
+    <string name="huichuan_4_6">星期五</string>
+    <string name="huichuan_4_7">星期六</string>
+    <string name="huichuan_4_8">星期日</string>
+    <string name="huichuan_5_1">优先级:定时模式>星期模式>闹钟模式，若设置多个模式，按优先级生效第一个</string>
+    <string name="huichuan_5_2">发送指令</string>
+    <string name="huichuan_cg">设置成功</string>
+    <string name="huichuan_error">设置失败</string>
+    <string name="huichuan_fanwei">范围1-999分钟</string>
+    <string name="huichuan_gps">GPS</string>
+    <string name="huichuan_lbs">LBS</string>
+    <string name="huichuan_wifi">WiFi</string>
+    <string name="ihere_title">我在这儿</string>
+    <string name="info_inpuut_fanwei">请输入范围内的值</string>
+    <string name="info_inpuut_tishi">请设置回传时间</string>
+    <string name="info_inpuut_week">请先选择星期</string>
+    <string name="iov_AlertOption">警报信息筛选</string>
+    <string name="iov_AlertOption_all">全选</string>
+    <string name="iov_AlertOption_confirm">确认</string>
+    <string name="iov_deviceinfo">设备信息</string>
+    <string name="iov_deviceinfo_apn">APN设置</string>
+    <string name="iov_deviceinfo_brand">车牌：</string>
+    <string name="iov_deviceinfo_date">激活日期：%s</string>
+    <string name="iov_deviceinfo_day_date">%d天</string>
+    <string name="iov_deviceinfo_flow">流量充值</string>
+    <string name="iov_deviceinfo_imei">IMEI：%s</string>
+    <string name="iov_deviceinfo_imsi">IMSI：%s</string>
+    <string name="iov_deviceinfo_remo">解除绑定</string>
+    <string name="iov_deviceinfo_sim">SIM：</string>
+    <string name="iov_deviceinfo_type">设备类型：%s</string>
+    <string name="iov_deviceinfo_valid_date">有效期：%s</string>
+    <string name="iov_ele">电子围栏</string>
+    <string name="iov_ele_alarm_set">报警方式设置</string>
+    <string name="iov_ele_alarm_set_in">进入报警</string>
+    <string name="iov_ele_alarm_set_out">离开报警</string>
+    <string name="iov_ele_name">电子围栏名称</string>
+    <string name="iov_ele_null_core">请点击地图设置电子围栏中心点！</string>
+    <string name="iov_ele_radius">半径%d米</string>
+    <string name="iov_ele_set">设置围栏</string>
+    <string name="iov_end_time">结束时间：</string>
+    <string name="iov_loc">车辆追踪</string>
+    <string name="iov_loc_address">地址：%s</string>
+    <string name="iov_loc_address_not">地址：请点击查看</string>
+    <string name="iov_loc_address_wait">地址：请稍候</string>
+    <string name="iov_loc_door_off">关闭</string>
+    <string name="iov_loc_door_on">打开</string>
+    <string name="iov_loc_electricity">%d</string>
+    <string name="iov_loc_gps">GPS</string>
+    <string name="iov_loc_lbs">LBS</string>
+    <string name="iov_loc_speed">%skm/h</string>
+    <string name="iov_loc_status_off">熄火</string>
+    <string name="iov_loc_status_on">点火</string>
+    <string name="iov_loc_wifi">WiFi</string>
+    <string name="iov_lujing">路径：</string>
+    <string name="iov_main_Many_off">进入单车界面</string>
+    <string name="iov_main_Many_on">进入多车界面</string>
+    <string name="iov_main_Record">录音</string>
+    <string name="iov_main_alldevice">全部设备</string>
+    <string name="iov_main_list">列表</string>
+    <string name="iov_main_list_all">全部(%d)</string>
+    <string name="iov_main_list_imei">IMEI:%s</string>
+    <string name="iov_main_list_not">未激活(%d)</string>
+    <string name="iov_main_list_off">离线(%d)</string>
+    <string name="iov_main_list_on">在线(%d)</string>
+    <string name="iov_main_list_rt0">追踪</string>
+    <string name="iov_main_list_rt1">导航</string>
+    <string name="iov_main_list_rt2">轨迹</string>
+    <string name="iov_main_list_rt3">围栏</string>
+    <string name="iov_main_list_rt4">指令</string>
+    <string name="iov_main_list_rt5">警报</string>
+    <string name="iov_main_list_rt6">SIM</string>
+    <string name="iov_main_location">定位</string>
+    <string name="iov_main_map_address"><u>查看地址</u></string>
+    <string name="iov_main_map_address_wait">请稍候</string>
+    <string name="iov_main_map_bvalid_GPS">定位：GPS</string>
+    <string name="iov_main_map_bvalid_LBS">定位：LBS</string>
+    <string name="iov_main_map_online_off">离线</string>
+    <string name="iov_main_map_online_on">在线</string>
+    <string name="iov_main_message">警报信息</string>
+    <string name="iov_main_shijing">全景地图</string>
+    <string name="iov_main_voice">声音监听</string>
+    <string name="iov_send">指令</string>
+    <string name="iov_send_car">远程控制</string>
+    <string name="iov_send_fcalarm">防拆报警开关</string>
+    <string name="iov_send_historys">指令历史</string>
+    <string name="iov_send_parameter">参数设置</string>
+    <string name="iov_send_switch">功能开关</string>
+    <string name="iov_start_time">开始时间：</string>
+    <string name="iov_tra">轨迹回放</string>
+    <string name="iov_tra_speed">%skm/h</string>
+    <string name="iov_tra_x1">X1</string>
+    <string name="iov_tra_x2">X2</string>
+    <string name="iov_tra_x3">X3</string>
+    <string name="iov_track_f">轨迹分段</string>
+    <string name="january">一月</string>
+    <string name="july">七月</string>
+    <string name="june">六月</string>
+    <string name="km">千米</string>
+    <string name="language">CN</string>
+    <string name="location_activity_nonsupport">此设备不支持</string>
+    <string name="location_activity_position_ck">点击查看我现在的实时位置</string>
+    <string name="location_activity_position_service">智联位置服务</string>
+    <string name="login">登录帐号</string>
+    <string name="login_accounts">帐号</string>
+    <string name="login_forget">忘记密码?</string>
+    <string name="login_login">登录</string>
+    <string name="login_password">密码</string>
+    <string name="login_register">新用户注册</string>
+    <string name="m">米</string>
+    <string name="main">主页</string>
+    <string name="main_camera">图拍</string>
+    <string name="main_findcar">位置服务</string>
+    <string name="main_logout_1">未登录</string>
+    <string name="main_logout_2">该账户已在其它地方登录</string>
+    <string name="main_logout_cue">您的帐号已在其它地方登录，是否重新登录</string>
+    <string name="main_music">音乐</string>
+    <string name="march">三月</string>
+    <string name="may">五月</string>
+    <string name="mo">一</string>
+    <string name="month">月</string>
+    <string name="more">更多应用</string>
+    <string name="msg_error_google_play_services_failed">Google Play Services不可用</string>
+    <string name="msg_error_weixin">未找到微信app</string>
+    <string name="music">音乐列表</string>
+    <string name="music_End">播放结束</string>
+    <string name="music_Success">下载成功</string>
+    <string name="music_artist_network">网络%s</string>
+    <string name="music_artist_phone">本地%s</string>
+    <string name="music_artist_u">USB%s</string>
+    <string name="music_fail">播放失败</string>
+    <string name="music_network">在线音乐</string>
+    <string name="music_phone">手机音乐</string>
+    <string name="music_play">正在播放</string>
+    <string name="music_please_select_the_device">请先选择设备！</string>
+    <string name="music_please_select_the_devicetype">该设备不支持录音</string>
+    <string name="music_push">点击播放</string>
+    <string name="music_start">开始下载</string>
+    <string name="music_text_imei">IMEI:%s</string>
+    <string name="music_text_time">时间:%s</string>
+    <string name="music_u">U盘</string>
+    <string name="netword_disconnect">当前网络不可用，请检查后重试</string>
+    <string name="november">十一月</string>
+    <string name="october">十月</string>
+    <string name="other_back">后退</string>
+    <string name="other_cancel">取消</string>
+    <string name="other_close">关</string>
+    <string name="other_delete">删除</string>
+    <string name="other_edit">编辑</string>
+    <string name="other_ensure">确定</string>
+    <string name="other_open">开</string>
+    <string name="other_save">保存</string>
+    <string name="permission">授权</string>
+    <string name="permission_active">手动授权</string>
+    <string name="permission_camera">为了保证应用正常运行，需要获取相机权限</string>
+    <string name="permission_location">为了保证应用正常运行，需要获取位置权限</string>
+    <string name="permission_open">为了保证应用正常运行，请打开权限</string>
+    <string name="permission_read">为了保证应用正常运行，需要获取读写手机存储权限权限</string>
+    <string name="qq">QQ</string>
+    <string name="refresh_top_end">释放即可刷新</string>
+    <string name="refresh_top_ing">正在刷新中...</string>
+    <string name="register">注册帐号</string>
+    <string name="register_1">1.验证手机</string>
+    <string name="register_2">2.设置密码</string>
+    <string name="register_3">3.设备绑定</string>
+    <string name="register_AccepteSrv">我已阅读并接受《相关用户协议》</string>
+    <string name="register_next">下一步</string>
+    <string name="register_register">注册</string>
+    <string name="register_wx">绑定微信</string>
+    <string name="s">秒</string>
+    <string name="sa">六</string>
+    <string name="sendnavi">导航地址发送</string>
+    <string name="sendnavi_Return">返回</string>
+    <string name="sendnavi_address">地址简称</string>
+    <string name="sendnavi_mess">留言说明</string>
+    <string name="sendnavi_navi">导航</string>
+    <string name="sendnavi_phone">接收人手机号码</string>
+    <string name="sendnavi_send">发送</string>
+    <string name="september">九月</string>
+    <string name="setmap">设置地图</string>
+    <string name="setmap_baidu">百度地图</string>
+    <string name="setmap_gaode">高德地图</string>
+    <string formatted="false" name="share_url_format">推荐你使用%s软件，软件下载地址:%s[%s]</string>
+    <string name="ssdk_alipay">支付宝好友</string>
+    <string name="ssdk_alipay_client_inavailable">目前您的支付宝版本过低或未安装，需要安装支付宝才能使用</string>
+    <string name="ssdk_alipaymoments">支付宝生活圈</string>
+    <string name="ssdk_bluetooth">蓝牙</string>
+    <string name="ssdk_dingding">钉钉</string>
+    <string name="ssdk_dont_keep_activitys_client">由于您已开启 不保留活动 ,导致授权功能无法正常使用.我们建议您点击左下方 设置 按钮,在 开发者选项 中关闭 不保留活动 功能.</string>
+    <string name="ssdk_douban">豆瓣</string>
+    <string name="ssdk_dropbox">Dropbox</string>
+    <string name="ssdk_email">邮件</string>
+    <string name="ssdk_evernote">印象笔记</string>
+    <string name="ssdk_facebook">Facebook</string>
+    <string name="ssdk_facebookmessenger">Facebook Messenger</string>
+    <string name="ssdk_facebookmessenger_client_inavailable">目前您的FacebookMessenger版本过低或未安装，需要安装才能使用</string>
+    <string name="ssdk_flickr">Flickr</string>
+    <string name="ssdk_foursquare">FourSquare</string>
+    <string name="ssdk_gender_female">女</string>
+    <string name="ssdk_gender_male">男</string>
+    <string name="ssdk_google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="ssdk_googleplus">Google+</string>
+    <string name="ssdk_instagram">Instagram</string>
+    <string name="ssdk_instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="ssdk_instapager_email_or_password_incorrect">Email或密码不正确</string>
+    <string name="ssdk_instapaper">Instapaper</string>
+    <string name="ssdk_instapaper_email">邮箱</string>
+    <string name="ssdk_instapaper_login">登录</string>
+    <string name="ssdk_instapaper_logining">登录中…</string>
+    <string name="ssdk_instapaper_pwd">密码</string>
+    <string name="ssdk_kaixin">开心网</string>
+    <string name="ssdk_kakaostory">KakaoStory</string>
+    <string name="ssdk_kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="ssdk_kakaotalk">KakaoTalk</string>
+    <string name="ssdk_kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="ssdk_laiwang">来往</string>
+    <string name="ssdk_laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string>
+    <string name="ssdk_laiwangmoments">来往动态</string>
+    <string name="ssdk_line">Line</string>
+    <string name="ssdk_line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="ssdk_linkedin">领英</string>
+    <string name="ssdk_meipai">美拍</string>
+    <string name="ssdk_mingdao">明道</string>
+    <string name="ssdk_mingdao_share_content">网页分享</string>
+    <string name="ssdk_neteasemicroblog">网易微博</string>
+    <string name="ssdk_oks_cancel">取消</string>
+    <string name="ssdk_oks_confirm">确定</string>
+    <string name="ssdk_oks_contacts">联系人</string>
+    <string name="ssdk_oks_multi_share">图文分享</string>
+    <string name="ssdk_oks_pull_to_refresh">下拉刷新</string>
+    <string name="ssdk_oks_refreshing">刷新中…</string>
+    <string name="ssdk_oks_release_to_refresh">松开刷新</string>
+    <string name="ssdk_oks_share">分享</string>
+    <string name="ssdk_oks_share_canceled">分享已取消</string>
+    <string name="ssdk_oks_share_completed">分享成功</string>
+    <string name="ssdk_oks_share_failed">分享失败</string>
+    <string name="ssdk_oks_sharing">分享操作正在后台进行…</string>
+    <string name="ssdk_pinterest">Pinterest</string>
+    <string name="ssdk_pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="ssdk_plurk">Plurk</string>
+    <string name="ssdk_pocket">Pocket</string>
+    <string name="ssdk_qq">QQ</string>
+    <string name="ssdk_qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="ssdk_qzone">QQ空间</string>
+    <string name="ssdk_renren">人人网</string>
+    <string name="ssdk_share_to_facebook">分享到Facebook</string>
+    <string name="ssdk_share_to_googleplus">分享到Google+</string>
+    <string name="ssdk_share_to_mingdao">分享到明道</string>
+    <string name="ssdk_share_to_qq">分享到QQ</string>
+    <string name="ssdk_share_to_qzone">分享到QQ空间</string>
+    <string name="ssdk_share_to_qzone_default">来自%s的分享</string>
+    <string name="ssdk_share_to_youtube">分享到Youtube</string>
+    <string name="ssdk_shortmessage">信息</string>
+    <string name="ssdk_sina_web_close">关闭</string>
+    <string name="ssdk_sina_web_login_title">登录-新浪微博</string>
+    <string name="ssdk_sina_web_net_error">网络出错啦，请点击按钮重新加载</string>
+    <string name="ssdk_sina_web_refresh">重新加载</string>
+    <string name="ssdk_sina_web_title">微博分享</string>
+    <string name="ssdk_sinaweibo">新浪微博</string>
+    <string name="ssdk_sms_btn_next">下一步</string>
+    <string name="ssdk_sms_btn_sende_voice">发送语音验证</string>
+    <string name="ssdk_sms_btn_submit">提交</string>
+    <string name="ssdk_sms_china">中国</string>
+    <string name="ssdk_sms_choose_country">选择国家和地区</string>
+    <string name="ssdk_sms_code">验证码</string>
+    <string name="ssdk_sms_country_search">搜索</string>
+    <string name="ssdk_sms_dialog_btn_back">返回</string>
+    <string name="ssdk_sms_dialog_btn_cancel">取消</string>
+    <string name="ssdk_sms_dialog_btn_login">确认登录</string>
+    <string name="ssdk_sms_dialog_btn_ok">好</string>
+    <string name="ssdk_sms_dialog_btn_sure">我知道了</string>
+    <string name="ssdk_sms_dialog_btn_wait">等待</string>
+    <string name="ssdk_sms_dialog_close_identify_page">验证码短信可能略有延迟，确定返回\n并重新开始？</string>
+    <string name="ssdk_sms_dialog_confirm_des">我们将发送验证码短信到这个手机号：\n</string>
+    <string name="ssdk_sms_dialog_confirm_title">确认手机号码</string>
+    <string name="ssdk_sms_dialog_error_code">验证码不正确，请重新填写</string>
+    <string name="ssdk_sms_dialog_error_des">您输入的是一个无效手机号码</string>
+    <string name="ssdk_sms_dialog_error_desc_100">服务器错误</string>
+    <string name="ssdk_sms_dialog_error_desc_101">没有权限请求</string>
+    <string name="ssdk_sms_dialog_error_desc_102">解密数据失败</string>
+    <string name="ssdk_sms_dialog_error_desc_103">请求参数列表中缺少必要数据</string>
+    <string name="ssdk_sms_dialog_error_desc_104">请求数据非法</string>
+    <string name="ssdk_sms_dialog_error_desc_105">验证码错误</string>
+    <string name="ssdk_sms_dialog_error_desc_106">请求发送验证码失败</string>
+    <string name="ssdk_sms_dialog_error_desc_107">该号码超过接收验证码上\n限次数，请明日再试</string>
+    <string name="ssdk_sms_dialog_error_desc_108">该设备超过请求发送验证\n码上限次数，请明日再试</string>
+    <string name="ssdk_sms_dialog_error_desc_109">发送短信太频繁</string>
+    <string name="ssdk_sms_dialog_error_title">手机号码错误</string>
+    <string name="ssdk_sms_dialog_login_success">登录成功</string>
+    <string name="ssdk_sms_dialog_net_error">网络不给力，请稍后重试</string>
+    <string name="ssdk_sms_dialog_send_success">发送成功</string>
+    <string name="ssdk_sms_dialog_smart_dec">您的设备为安全设备，该号码已通过智能\n云验证，无需短信验证\n（本验证过程不存在任何安全隐患）</string>
+    <string name="ssdk_sms_dialog_smart_title">恭喜！该号码已通过云检测</string>
+    <string name="ssdk_sms_dialog_system_error">系统有点小问题，请稍后重试</string>
+    <string name="ssdk_sms_dialog_voice_text">我们将以电话的方式告知您验证码，\n请注意接听</string>
+    <string name="ssdk_sms_input_code_hint">请输入验证码</string>
+    <string name="ssdk_sms_input_phone_hint">请输入手机号码</string>
+    <string name="ssdk_sms_input_voice_code"><Data>短信验证码收不到？请尝试&lt;font color=#2ba245>语音验证码&lt;/font></Data></string>
+    <string name="ssdk_sms_login">短信登录</string>
+    <string name="ssdk_sms_phone">手机号</string>
+    <string name="ssdk_sms_send_again">重新发送</string>
+    <string name="ssdk_sms_top_identify_text">短信已发送，请填写验证码</string>
+    <string name="ssdk_sms_top_text">请输入您的手机号</string>
+    <string name="ssdk_sms_zone">国家/地区</string>
+    <string name="ssdk_sohumicroblog">搜狐微博</string>
+    <string name="ssdk_sohusuishenkan">搜狐随身看</string>
+    <string name="ssdk_symbol_ellipsis">...</string>
+    <string name="ssdk_telegram">Telegram</string>
+    <string name="ssdk_telegram_client_inavailable">目前您的Telegram版本过低或未安装，需要安装才能使用</string>
+    <string name="ssdk_tencentweibo">腾讯微博</string>
+    <string name="ssdk_tumblr">Tumblr</string>
+    <string name="ssdk_twitter">Twitter</string>
+    <string name="ssdk_use_login_button">请改用“登录”按钮</string>
+    <string name="ssdk_vkontakte">VK</string>
+    <string name="ssdk_website">http://www.mob.com</string>
+    <string name="ssdk_wechat">微信好友</string>
+    <string name="ssdk_wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="ssdk_wechatfavorite">微信收藏</string>
+    <string name="ssdk_wechatmoments">微信朋友圈</string>
+    <string name="ssdk_weibo_oauth_regiseter">应用授权</string>
+    <string name="ssdk_weibo_upload_content">分享图片</string>
+    <string name="ssdk_whatsapp">WhatsApp</string>
+    <string name="ssdk_whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string>
+    <string name="ssdk_yixin">易信</string>
+    <string name="ssdk_yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="ssdk_yixinmoments">易信朋友圈</string>
+    <string name="ssdk_youdao">有道云笔记</string>
+    <string name="ssdk_youtube">Youtube</string>
+    <string name="start_1">智能管家，畅行天下</string>
+    <string name="start_2">位置服务</string>
+    <string name="su">日</string>
+    <string name="th">四</string>
+    <string name="title_activity_hui_chuan">HuiChuanActivity</string>
+    <string name="title_activity_trajectory_segmentation">TrajectorySegmentationActivity</string>
+    <string name="tra">轨迹</string>
+    <string name="tu">二</string>
+    <string name="twocode">条形码扫描</string>
+    <string name="url_error">服务器异常</string>
+    <string name="userinfo">个人中心</string>
+    <string name="userinfo_Album">从相册选择</string>
+    <string name="userinfo_accounts">帐号</string>
+    <string name="userinfo_camera">拍照上传</string>
+    <string name="userinfo_fm">FM发射</string>
+    <string name="userinfo_image">头像</string>
+    <string name="userinfo_map">设置地图</string>
+    <string name="userinfo_mess">消息中心</string>
+    <string name="userinfo_mic">蓝牙麦克风</string>
+    <string name="userinfo_name">姓名</string>
+    <string name="userinfo_out">退出帐号</string>
+    <string name="userinfo_out_cue">帐号退出后会清除您的登录密码和消息，下次登录需要重新输入密码</string>
+    <string name="userinfo_password">修改密码</string>
+    <string name="userinfo_photo">系统头像</string>
+    <string name="userinfo_we">关于我们</string>
+    <string name="userinfo_we_share">分享</string>
+    <string name="userinfo_weixin">微信</string>
+    <string name="viewfinderview_status_text1">请将设备条形码置于方框内</string>
+    <string name="viewfinderview_status_text2">即可自动扫描</string>
+    <string name="we">三</string>
+    <string name="wechat">微信</string>
+    <string name="year">年</string>
+</resources>

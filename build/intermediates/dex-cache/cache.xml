@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="11a294f511cf1e23f525c87ca4cc1d92c9f3d6a2">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\bugly_crash_release_2e52be8267434515d98cba349f59df37cee29d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jshare-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1dfd398291e91113043581e8c22e2f46c9534f7e">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jshare-android-1.6.1_6e98b2aada2d8207d2e181cc3a8ed76d5408d4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jshare-wechat-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="21fcff6c658a60c5b076aec012f0eedceeb2327d">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jshare-wechat-android-1.6.1_894bd6035fba2e168364400156ffc54ab5d7df3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jpush-android-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="989c1fc762c0424b2e25692444e9f1df60288a1d">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jpush-android-3.1.1_e4daed382ecb3a39832f5669102d9087c3d70f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jshare-jchatpro-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2edbb90012fa0459c40531d79f229fdd97bb9246">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jshare-jchatpro-android-1.6.1_de940930e55a5d5e2ab1deabddeeb96e4f30a15b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\com.baidu.tts_2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a528d78030980dd74321b9ce516b7bffe569b382">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\com.baidu.tts_2.3.0_9f2df2aec677cc6166e8aaa406c045640646f75a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf34b307f0ffa0c544e0e095f5467f274a6c793f">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\classes_95a851612414438a2e849b6ee8a2a3554f32667c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d016f6436feaaf7c935242da3bc135b46d0565e2">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\android-support-v4_61f9e37f6733e9e8b3652441ec1c5a24040e863b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\zbar-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f80dd2878dd76cb5bece023aae9ebada047f8c79">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\zbar-1.0.0_cb20e9917432c0eb325897ef794305e6c201c704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\recyclerview\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1c9615d4ff350b4d362cd2140ec7e540b0e757ba">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\classes_f510b0e0c44e4847aa294f680b7c176e18ec11c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\okhttp-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="26c3b7c2af946c82c5752be8e829714ded58b473">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\okhttp-2.7.0_37a3b3b1dc0c9fd4307aaf4ee4530bf6ac0f3c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\IndoorscapeAlbumPlugin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9f1491224e387839636058324abd7f65cb2c78bc">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\IndoorscapeAlbumPlugin_ce5e9437a2f57a801fecf3b6c828a3a1881953bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\core-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c1d5c005215f09fd8866c646cf5816e8385cb93d">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\core-3.0.0_15e0e21fbb0053e3c8e2cdd98fd21e5af961b47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="412fbc870a3872813837f297c1fb89a67a6d4003">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\Msc_be8e04a45b2f34c6cda75350bbcc966ac05f55ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\wechat-sdk-android-with-mta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1f0819566da1f6bf77efced7535c18c18b43a7e9">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\wechat-sdk-android-with-mta_f3535e85954bcecfa47eff052e53ed937b01b9d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\ucrop.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d3a3aac5ddfa682651202afbc4d8fc1a232ce074">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\ucrop_73682cb8910c7fdc36d3447dd6b7ca497e3cc514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\ibluz 1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7be5e7c4fd274ffa5abec520a9d67cb92405d1e3">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\ibluz 1.1.4_f13c5dcd7461a380b827f2187f9ad126a00538ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_e0dd78a220fde1aa367790fe81d3e3c92a23ff0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jshare-sina-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ee8ac533700af4263075b7bbf84910c706574e4">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jshare-sina-android-1.6.1_63f0005fbcd58233d3bc0d35120bbaad1e6d3032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jcore-android-1.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="58ec577a37b6955f5ea1db8ef707a9ec0068984f">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jcore-android-1.2.6_8a9eec2a44e3761dbb6a92709f740d4f1132ee7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\zbar-camera-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="483348e95c031143345404573957adafbff99ca1">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\zbar-camera-1.0.0_0bea8382e153b92464ba5d0a12a15264f27f50ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da1757352c75249162cd7e84549c8fb6475adb8f">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\BaiduLBS_Android_ddd3da37753ee9a9c4979cb5da5612f8d52bb25d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jshare-facebook-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9d7d0b38370bb9bfda529269719fa246226a0c07">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jshare-facebook-android-1.6.1_f738d3848594a88b5665df4bb406974ac9e51eb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1ecfb147a1d0dc154fb1a42178dd64db8509dbaa">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\gson-2.2.1_679f61e7f0acc247abfd4862d6b62983326ce015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cc96a1b8821438d09a3fdbd22f7206d4dee358c3">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\okio-1.6.0_b064316df908f1f881261e41ab66370c55b581d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\recyclerview\build\intermediates\bundles\default\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d9f7984b28a9eea7d5da1c6c581e95c61d61f55e">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\android-support-v7-recyclerview_7d78450667f14d4886ff943c2fe255ef9e4ad123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="015a639bd9933f4f812be8bede14f14bd1bdea8b">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\glide-3.6.1_84562f08963b1e6c6b190843a619bad48902f4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jshare-qq-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="91b9e86d4e069c910da85f95d87891d56a72f64f">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jshare-qq-android-1.6.1_4e07d52b0cefb865dbe17c4cb9d2bd8132004197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\library\build\intermediates\bundles\default\libs\pinyin4j-2.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d3f8b80e88920e2bac5db16a81315b6ffd152e1c">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\pinyin4j-2.5.1_940f450f0c1a111b3f516a4ad5057c1475f2576b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\001_FHZL\MyPhoenix\libs\jshare-twitter-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="32dab4c9b24de75efacefd72be87b364f3870d9d">
+        <dex dex="D:\001_FHZL\MyPhoenix\build\intermediates\pre-dexed\release\jshare-twitter-android-1.6.1_0370fe06b69eb3df408a22a78099162689620515.jar" />
+    </item>
+
+</items>

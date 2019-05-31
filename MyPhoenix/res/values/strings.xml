@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fenghuangzhilian</string>
+     <!-- 提示语 -->
+    <string name="netword_disconnect">The current network is not available. Please check and retry. </string>
+     <string name="info_inpuut_fanwei">Please enter a range of values</string>
+    <string name="info_inpuut_tishi">Please set the return time</string>
+    <string name="cue_up_shijing_qihuan">The phone does not support frequent handover for the time being.</string>
+    <string name="cue_carname_is_no_empty">License plate cannot be empty</string>
+    <string name="cue_carname_is_no_Emoji">License plate does not support emoticons</string>
+    <!--<string name="cue_sim_is_no_empty">SIM cannot be empty</string>-->
+    <string name="cue_up_nodata_ele">No fence</string>
+    <string name="app_notify">Determine to open notification function？</string>
+    <string name="elelist_count_max">The number of electronic fences has reached the upper limit.</string>
+    <string name="iov_send_car">Remote control</string>
+    <string name="car_yiqing_yi_dianhuo">The engine has been ignited</string>
+    <string name="car_yiqing_yi_xihuo">The engine has stalled</string>
+    <string name="car_door_yi_open">The door has been opened</string>
+    <string name="car_door_yi_close">The door is closed</string>
+    <string name="car_kongtiao_yi_open">The air conditioner is open</string>
+    <string name="car_kongtiao_yi_close">Air conditioning is closed.</string>
+    <string name="car_dianhuo">Ignition</string>
+    <string name="car_xihuo">Flameout</string>
+    <string name="car_door_open">Door Open</string>
+    <string name="car_door_close">Door closed</string>
+    <string name="car_kongtiao_open">Air conditioning open</string>
+    <string name="car_kongtiao_close">Air conditioning closure</string>
+    <string name="alarm_weilan_1">Fencing 1:</string>
+    <string name="alarm_weilan_2">Fencing 2:</string>
+    <string name="alarm_weilan_3">Fencing 3:</string>
+    <string name="alarm_weilan_4">Fencing 4:</string>
+    <string name="alarm_weilan_5">Fencing 5:</string>
+    <string name="app_down">download</string>
+    <string name="cue_no_zero">The input value can not be 0.</string>
+    <string name="app_check_update">Check the update</string>
+    <string name="iov_start_time">Start time: </string>
+    <string name="iov_end_time">End  time: </string>
+    <string name="iov_lujing">Route: </string>
+    <string name="url_error">Server exception</string>
+    <string name="language">US</string>
+    <string name="huichuan_cg">Setup success</string>
+    <string name="huichuan_error">Setting failure</string>
+    <string name="flow_activity_wnhq">ICCID not obtained, please enter manually</string>
+    <string name="location_activity_position_service">Zhilian Location Service</string>
+    <string name="location_activity_position_ck">Click to view my current location</string>
+    <string name="location_activity_nonsupport">This device is not supported</string>
+    <string name="about_activity_position_clickdownload_app">Click to download fenghuangzhilian App</string>
+
+    <!-- other -->
+    <string name="other_delete">delete</string>
+    <string name="other_cancel">cancel</string>
+    <string name="other_ensure">determine</string>
+    <string name="other_save">preservation</string>
+    <string name="other_edit">edit</string>
+    <string name="other_open">open</string>
+    <string name="other_close">close</string>
+    <string name="other_back">Back</string>
+    <!-- 单位 -->
+    <string name="s">s</string>
+    <string name="m">m</string>
+    <string name="km">km</string>
+    <!-- 刷新提示 -->
+    <string name="refresh_top_end">Release to refresh</string>
+    <string name="refresh_top_ing">Refresh in progress...</string>
+    <!-- start -->
+    <string name="start_1">Intelligent housekeeper</string>
+    <string name="start_2">Location Services</string>
+    <!-- main -->
+    <string name="main_logout_1">Not logged in</string>
+    <string name="main_logout_2">The account has been registered elsewhere</string>
+    <string name="main_logout_cue">Your account has been logged in elsewhere, whether or not to log in again</string>
+    <!-- 导航 -->
+    <string name="sendnavi_navi">Navigation</string>
+    <string name="sendnavi">Navigation address sent</string>
+    <string name="sendnavi_phone">Recipient phone number</string>
+    <string name="sendnavi_address">Address abbreviation</string>
+    <string name="sendnavi_mess">Message description</string>
+    <string name="sendnavi_send">sending</string>
+    <string name="sendnavi_Return">return</string>
+    <!-- 登录 -->
+    <string name="login">Login account</string>
+    <string name="login_accounts">account</string>
+    <string name="login_password">password</string>
+    <string name="login_login">Login</string>
+    <string name="login_register">New User Registration</string>
+    <string name="login_forget">Forget the password?</string>
+    <!-- 注册 -->
+    <string name="register">Registered Account</string>
+    <string name="register_register">register</string>
+    <string name="register_1">1.Verify Cell Phone</string>
+    <string name="register_2">2.Set Password</string>
+    <string name="register_3">3.Device binding</string>
+    <string name="register_next">Next</string>
+    <string name="register_AccepteSrv">I have read and accepted the relevant User Agreement</string>
+    <string name="register_wx">Binding WeChat</string>
+    <!-- 主页 -->
+    <string name="main">Home Page</string>
+    <string name="main_findcar">Location Services</string>
+    <string name="main_music">music</string>
+    <string name="main_camera">tu pai</string>
+    <!-- 绑定 -->
+    <string name="binding">Device binding</string>
+    <string name="binding_text">Please enter device IMEI for binding</string>
+    <string name="binding_ensure">Determine binding</string>
+    <!-- 音乐列表 -->
+    <string name="music">Music List</string>
+    <string name="music_phone">Cell phone  music</string>
+    <string name="music_u">USB</string>
+    <string name="music_network">Online music</string>
+    <string name="music_artist_phone">Local%s</string>
+    <string name="music_artist_u">USB%s</string>
+    <string name="music_artist_network">Network%s</string>
+    <!-- 设置地图 -->
+    <string name="setmap">Setup a map</string>
+    <string name="setmap_baidu">Baidu Map</string>
+    <string name="setmap_gaode">GAD Map</string>
+    <!-- 轨迹 -->
+    <string name="tra">trajectory</string>
+    <!-- FM -->
+    <string name="FM">FM</string>
+    <!-- 二维码扫描 -->
+    <string name="twocode">Bar code scanning</string>
+    <!-- 忘记密码 -->
+    <string name="forgot">forget the password</string>
+    <string name="forgot_forgot">Reset new password</string>
+    <string name="forgot_edit">modify</string>
+    <!-- 修改密码 -->
+    <string name="editpassword">Change Password</string>
+    <!-- 个人中心 -->
+    <string name="userinfo">Personal Center</string>
+    <string name="userinfo_Album">Select from the album</string>
+    <string name="userinfo_camera">Photo upload</string>
+    <string name="userinfo_photo">System picture</string>
+    <string name="userinfo_name">Name</string>
+    <string name="userinfo_image">Head portrait</string>
+    <string name="userinfo_accounts">Accounts</string>
+    <string name="userinfo_password">Change password</string>
+    <string name="userinfo_weixin">WeChat</string>
+    <string name="userinfo_mic">Bluetooth microphone</string>
+    <string name="userinfo_fm">FM</string>
+    <string name="userinfo_map">Setup a map</string>
+    <string name="userinfo_mess">Message center</string>
+    <string name="userinfo_we">About us</string>
+    <string name="wechat">WeChat</string>
+    <string name="friends">Circle of Friends</string>
+    <string name="qq">QQ</string>
+    <string name="more">More Applications</string>
+    <string name="userinfo_we_share">share</string>
+    <string name="share_url_format" formatted="false">Recommended to use %s software, software download address: %s[ %s]</string>
+    <string name="userinfo_out">Exit Account</string>
+    <string name="userinfo_out_cue">After the account exits, your login password and message will be cleared. The next login needs to re-enter the password.</string>
+    <!-- 授权 -->
+    <string name="permission_open">To keep the application running, open permissions</string>
+    <string name="permission_location">In order to ensure that the application is running properly, you need to obtain position permissions</string>
+    <string name="permission_camera">In order to ensure the application is running properly, you need to obtain camera permissions</string>
+    <string name="permission_read">In order to keep the application running properly, you need to get permission to read and write mobile phone storage</string>
+    <string name="permission">authorize</string>
+    <string name="permission_active">Manual authorization</string>
+    <!-- 智能找车 -->
+    <string name="findcar">Intelligent vehicle search</string>
+    <string name="findcar_clock_tenleft">Ten minutes left</string>
+    <string name="findcar_clock_immediately">时间到了</string>
+    <string name="findcar2_sysset_sound">Sound Settings</string>
+    <!-- 蓝牙搜索 -->
+    <string name="ble_connect">Bluetooth connection</string>
+    <string name="ble_device">equipment</string>
+    <string name="ble_scan">search</string>
+    <string name="ble_connect_ing">Start connecting devices</string>
+    <string name="ble_connect_end">The device is connected successfully</string>
+    <!-- 我在这儿 -->
+    <string name="ihere_title">I am here</string>
+    <!-- edittext hint -->
+    <string name="hint_phone">Please enter cell phone number</string>
+    <string name="hint_password">Please input a password</string>
+    <string name="hint_password_confirm">Please confirm the password</string>
+    <string name="hint_name">Please enter nickname.</string>
+    <string name="hint_imei">Please enter device number IMEI</string>
+    <string name="hint_image_code">Please enter a graphical verification code</string>
+    <string name="hint_phone_code">Please enter SMS verification code</string>
+    <string name="hint_get_phone_code">Please enter SMS verification code</string>
+    <string name="hint_password_old">Please input the old password</string>
+    <string name="hint_password_new">Please enter a new password</string>
+    <!-- 提示语 -->
+    <string name="cue_is_no_correct">Incorrect format</string>
+    <string name="cue_set_name">Enter the name you want</string>
+    <string name="cue_not_date">No data</string>
+    <string name="cue_ble_error_1">Query product serial number has no result, has been automatically disconnected, please purchase genuine equipment</string>
+    <string name="cue_ble_error_2">The equipment you connected is not produced by regular manufacturer. It has been disconnected automatically. Please purchase genuine equipment</string>
+    <string name="cue_ble_break">Disconnect Bluetooth?</string>
+    <string name="cue_please_wait">Please wait a moment</string>
+    <string name="cue_please_wait_angle">Please wait while you adjust the picture</string>
+    <string name="device_info_unbound_confirm">Unbind the current device?</string>
+    <string name="cue_no_up_apk">It is the latest version!</string>
+    <string name="cue_up_apk">Found whether the new version is updated immediately</string>
+    <string name="cue_BluetoothConnect_wait">Please connect the device</string>
+    <string name="cue_BluetoothEnable_wait">Please turn on Bluetooth</string>
+    <string name="cue_Location_wait">Please open location permission first</string>
+    <string name="cue_login_wait">Please login first</string>
+    <string name="cue_logoutwx_wait">Do you want to remove WeChat binding?</string>
+    <string name="cue_successful">success</string>
+    <string name="dakaiquanxxian">Please turn on camera privileges</string>
+    <string name="cue_fail">fail</string>
+    <string name="cue_up_successful">Update successful</string>
+    <string name="cue_up_error">Failed to update</string>
+    <string name="cue_send_successful">Sending successfully</string>
+    <string name="cue_send_error">Sending failed</string>
+    <string name="cue_login_successful">Logon successful</string>
+    <string name="cue_edit_successful">Modified successfully</string>
+    <string name="cue_bonded_successful">Binding successful</string>
+    <string name="cue_unbonded_successful">Untie success</string>
+    <string name="cue_click_again_to_exit">Press the exit procedure again</string>
+    <string name="cue_no_empty">Can not be empty</string>
+    <string name="cue_nickname_is_no_empty">Name can not be empty</string>
+    <string name="cue_nickname_is_no_Emoji">Name does not support</string>
+    <string name="cue_phone_is_no_empty">The phone number can not be empty</string>
+    <string name="cue_phone_is_no_correct">Incorrect phone number format</string>
+    <string name="cue_phone_is_no_Binding">Please bind the device first!</string>
+    <string name="cue_password_is_no_error">Old password error</string>
+    <string name="cue_password_is_no_empty">The password must not be empty</string>
+    <string name="cue_password_is_no_correct">Password length is incorrect</string>
+    <string name="cue_password_is_no_16_bits">Password should not exceed 16 bits</string>
+    <string name="cue_is_no_bits">Can not exceed %d bit</string>
+    <string name="cue_name_is_no_16_bits">Name should not exceed 16 bits</string>
+    <string name="cue_code_is_no_6_bits">The verification code must not exceed 6 bits</string>
+    <string name="cue_password_is_no_confirm">The two password is inconsistent</string>
+    <string name="cue_macid_is_no_empty">The device number can not be empty</string>
+    <string name="cue_macid_is_no_correct">The device number is not the right length</string>
+    <string name="cue_macid_is_error">The device number format is incorrect</string>
+    <string name="cue_code_is_no_empty">Validation number can not be empty</string>
+    <string name="cue_code_is_no_agreement">Please read and confirm the terms of service, otherwise you will not be able to complete the registration.</string>
+    <string name="cue_no_network">The network is unable to connect</string>
+    <string name="cue_no_Invalid">Account logged on another device, please log in again</string>
+    <string name="cue_network_anomaly">Network exception</string>
+    <string name="cue_no_device_info">No device information was obtained</string>
+    <string name="viewfinderview_status_text1">Please put the bar code in the frame</string>
+    <string name="viewfinderview_status_text2">Can automatically scan</string>
+    <string name="msg_error_google_play_services_failed">Google Play Services is not available</string>
+    <string name="msg_error_weixin">WeChat app not found</string>
+    <string name="title_activity_trajectory_segmentation">TrajectorySegmentationActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hui_chuan">HuiChuanActivity</string>
+    <string name="title_activity_gt122_hui_chuan">GT122HuiChuanActivity</string>
+
+     <string name="device_info_chongqi">Reiniciar</string>
+    <string name="device_info__is_chongqi">¿Reiniciando?</string>
+    <string name="device_info_version_mcu">MCU</string>
+    <string name="device_install_goolemap">Todavía no ha instalado el mapa de Google o la versión del mapa.</string>
+    <string name="device_info__confirm">¿La conexión a distancia?</string>
+    <string name="device_config_1inqing">Configuración del número</string>
+     <string name="cue_is_no_max">Longitud no superior a 16</string>
+    <string name="device_info_nav_confirm">¿Se ha llevado a cabo el navegador?</string>
+    <string name="device_config_tonghua">Configuración de número de asignación</string>
+    <string name="device_info_guanji">Power off</string>
+</resources>

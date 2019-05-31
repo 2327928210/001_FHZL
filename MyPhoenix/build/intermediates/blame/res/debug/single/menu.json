@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\menu\\hui_chuan.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\menu\\hui_chuan.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\menu\\trajectory_segmentation.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\menu\\trajectory_segmentation.xml"
+    },
+    {
+        "merged": "D:\\001_FHZL\\MyPhoenix\\build\\intermediates\\res\\merged\\debug\\menu\\gt122_hui_chuan.xml",
+        "source": "D:\\001_FHZL\\MyPhoenix\\res\\menu\\gt122_hui_chuan.xml"
+    }
+]

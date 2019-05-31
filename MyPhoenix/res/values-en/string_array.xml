@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gt55_commit_time">
+        <item>20s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>10min</item>
+        <item>15min</item>
+    </string-array>
+    <string-array name="device_mode">
+        <item>Continuous tracking positioning mode</item>
+        <item>Interval upload mode</item>
+        <item>Fixed time point upload mode</item>
+    </string-array>
+    <string-array name="device_dr30_mode">
+        <item>Dormant state</item>
+        <item>Power saving tracking</item>
+        <item>Real time tracking</item>
+    </string-array>
+    <string-array name="recording_time">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="wheel_hours">
+        <item>0h</item>
+        <item>1h</item>
+        <item>2h</item>
+        <item>3h</item>
+        <item>4h</item>
+        <item>5h</item>
+        <item>6h</item>
+        <item>7h</item>
+        <item>8h</item>
+        <item>9h</item>
+        <item>10h</item>
+        <item>11h</item>
+        <item>12h</item>
+    </string-array>
+    <string-array name="wheel_minutes">
+        <item>0min</item>
+        <item>5min</item>
+        <item>10min</item>
+        <item>15min</item>
+        <item>20min</item>
+        <item>25min</item>
+        <item>30min</item>
+        <item>35min</item>
+        <item>40min</item>
+        <item>45min</item>
+        <item>50min</item>
+        <item>55min</item>
+    </string-array>
+    <string-array name="location_time2">
+        <item>20s</item>
+        <item>60s</item>
+        <item>10min</item>
+        <item>1h</item>
+    </string-array>
+    <string-array name="location_time">
+        <item>1s</item>
+        <item>20s</item>
+        <item>60s</item>
+        <item>10min</item>
+        <item>1h</item>
+    </string-array>
+    <string-array name="location_time_gt52">
+        <item>20s</item>
+        <item>30s</item>
+        <item>60s</item>
+        <item>10min</item>
+        <item>1h</item>
+    </string-array>
+    <string-array name="tra_time">
+        <item>3min</item>
+        <item>5min</item>
+        <item>10min</item>
+        <item>15min</item>
+        <item>20min</item>
+        <item>30min</item>
+        <item>45min</item>
+        <item>1h</item>
+        <item>6h</item>
+        <item>12h</item>
+        <item>24h</item>
+    </string-array>
+    <string-array name="location_time_gt3a">
+        <item>1min</item>
+        <item>10min</item>
+        <item>60min</item>
+    </string-array>
+
+    <string name="edit_rule">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890&#38;!&#033;@&#064;#&#035;$&#036;%&#037;^&#094;*&#042;</string>
+    <string name="edit_apn">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890.</string>
+
+</resources>
